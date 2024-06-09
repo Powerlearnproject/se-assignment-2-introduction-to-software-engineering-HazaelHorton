@@ -170,6 +170,8 @@ Speak Up! If you see something unethical happening, don't be afraid to raise you
 Stay Informed: Educate yourself on emerging ethical issues in software development and best practices for addressing them.
 Remember, software engineers have the power to create technology that benefits society. By advocating for ethical practices and prioritizing user well-being, they can help build a better digital future.(GEMINI)
 
+
+REF: Gemini AI, ChatGPT AI and Copiliot AI
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
